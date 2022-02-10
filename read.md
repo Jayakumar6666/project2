@@ -1,2 +1,2 @@
-# this is the java appilication
+# this is the java project
 welcome to github
